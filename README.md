@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Marzia Culotta! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
-<h3 align="center">Junior Front-End developer 💻 </h3>
+<h3 align="center">Junior Front-End Developer 💻 </h3>
   
 Welcome to my GitHub! I'm Marzia, a junior front-end developer student. When I am not studying or programming, I play videogames, I like to read about fantasy worlds and astronomy, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. I'm also in love with my two dogs ♥
 
