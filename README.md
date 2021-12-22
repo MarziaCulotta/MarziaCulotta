@@ -2,7 +2,7 @@
  
 <h3 align="center">Junior Front-End Developer 💻 </h3>
   
-Welcome to my GitHub! I'm Marzia, a junior front-end developer student. When I am not studying or programming, I play videogames, I like to read about fantasy worlds and astronomy, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. I'm also in love with my two dogs ♥
+Welcome to my GitHub! I'm Marzia, a junior front-end developer student. When I am not studying or programming, I play videogames, I like to read about fantasy worlds and astronomy. I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. I'm also in love with my two dogs ♥
 
 <details open>
   <summary>🌐 &nbsp; Social</summary>
